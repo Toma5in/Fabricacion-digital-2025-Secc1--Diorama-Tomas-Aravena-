@@ -1,3 +1,18 @@
 # Fabricacion-digital-2025-Secc1--Diorama-Tomas-Aravena-
 
 ![](img/p1.png)
+![](img/p2.png)
+![](img/p3.png)
+![](img/p4.png)
+![](img/p5.png)
+![](img/p6.png)
+![](img/p7.png)
+![](img/p8.png)
+![](img/p9.png)
+![](img/p10.png)
+![](img/p11.png)
+![](img/p12.png)
+![](img/p13.png)
+![](img/p14.png)
+![](img/p15.png)
+![](img/p16.png)
